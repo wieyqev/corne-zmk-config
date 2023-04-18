@@ -89,7 +89,7 @@
      &none  &kp Z      &kp X      &kp C      &kp V      &kp B          &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH     &none 
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
         //                      | 36       | 37       | 38       |   | 39       | 40       | 41       |
-                                 &kp LALT   &lt 3 TAB  &lt 2 SPACE    &lt 4 BSPC &lt 1 ENTER  &kp LGUI
+                                 &kp LALT   &lt 3 ESC  &lt 2 SPACE    &lt 4 BSPC &lt 1 ENTER  &kp LGUI
         //                      ╰──────────┴──────────┴──────────╯   ╰──────────┴──────────┴──────────╯
             >;
         };
