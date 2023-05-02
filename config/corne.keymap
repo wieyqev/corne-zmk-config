@@ -118,7 +118,7 @@
 &none      &kp TILDE   &kp GRAVE   &kp LBKT   &kp RBKT   &trans        &kp CARET  &kp LBRC   &kp RBRC   &trans      &trans   &none 
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│ CTRL A   │ CTRL S   │ CTRL D   │  $       │  %       │   │          │   ;      │   :      │  \       │   _      │
-&none       &kp LC(A)  &kp LC(S) &kp LC(D)  &kp DLLR   &kp PRCNT      &trans    &kp SEMI   &kp COLON  &kp BSLH   &kp UNDER    &none 
+&none       &kp LC(A)  &kp LC(S) &kp LC(N3)  &kp DLLR   &kp PRCNT      &trans    &kp SEMI   &kp COLON  &kp BSLH   &kp UNDER    &none 
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│ CTRL Z   │ CTRL X   │ CTRL C   │ CTRL V   │          │   │          │          │          │  │       │          │
 &none      &kp LC(Z) &kp LC(X)   &kp LC(C)  &kp LC(V)   &trans         &trans    &trans     &trans     &kp PIPE     &trans   &none 
